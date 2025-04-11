@@ -5,6 +5,10 @@
     "scripts": {
         "start": "node server.js"
     },
+    "keywords":[],
+    "author": "Your Name",
+    "license": "ISC",
+    "description": "A simple Express.js application for Railway deployment",
     "dependencies": {
         "express": "^4.21.2"
     }
